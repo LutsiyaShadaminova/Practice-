@@ -1,12 +1,19 @@
-﻿// с этой задачей не разобралась((
+﻿// с этой задачей помучилась((, спасибо ребятам помогли
 
 Console.Write("Введите натуральное число: ");
 
 int n = Convert.ToInt32(Console.ReadLine());
 int a = 1;
 
-while(n > a && (n % 2) == 0)
+while(n >= a)
 {
-    Console.WriteLine(n);
-    n + 2;
+    if(a % 2 == 0)
+    {
+        Console.WriteLine(a);
+        a++;
+    }
+    else
+    {
+        a++;
+    }
 }
