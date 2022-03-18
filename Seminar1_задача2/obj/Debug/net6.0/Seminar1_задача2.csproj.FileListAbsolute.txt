@@ -1,0 +1,15 @@
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\bin\Debug\net6.0\Seminar1_задача2.exe
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\bin\Debug\net6.0\Seminar1_задача2.deps.json
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\bin\Debug\net6.0\Seminar1_задача2.runtimeconfig.json
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\bin\Debug\net6.0\Seminar1_задача2.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\bin\Debug\net6.0\Seminar1_задача2.pdb
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\Seminar1_задача2.csproj.AssemblyReference.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\Seminar1_задача2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\Seminar1_задача2.AssemblyInfoInputs.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\Seminar1_задача2.AssemblyInfo.cs
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\Seminar1_задача2.csproj.CoreCompileInputs.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\Seminar1_задача2.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\refint\Seminar1_задача2.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\Seminar1_задача2.pdb
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\Seminar1_задача2.genruntimeconfig.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar1_задача2\obj\Debug\net6.0\ref\Seminar1_задача2.dll
