@@ -1,0 +1,15 @@
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\S2_hw_z2.csproj.AssemblyReference.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\S2_hw_z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\S2_hw_z2.AssemblyInfoInputs.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\S2_hw_z2.AssemblyInfo.cs
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\S2_hw_z2.csproj.CoreCompileInputs.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\bin\Debug\net6.0\S2_hw_z2.exe
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\bin\Debug\net6.0\S2_hw_z2.deps.json
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\bin\Debug\net6.0\S2_hw_z2.runtimeconfig.json
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\bin\Debug\net6.0\S2_hw_z2.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\bin\Debug\net6.0\S2_hw_z2.pdb
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\S2_hw_z2.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\refint\S2_hw_z2.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\S2_hw_z2.pdb
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\S2_hw_z2.genruntimeconfig.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\S2_hw_z2\obj\Debug\net6.0\ref\S2_hw_z2.dll
