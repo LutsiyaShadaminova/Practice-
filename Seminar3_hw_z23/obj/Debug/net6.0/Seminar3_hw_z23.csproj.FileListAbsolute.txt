@@ -1,0 +1,15 @@
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\Seminar3_hw_z23.csproj.AssemblyReference.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\Seminar3_hw_z23.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\Seminar3_hw_z23.AssemblyInfoInputs.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\Seminar3_hw_z23.AssemblyInfo.cs
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\Seminar3_hw_z23.csproj.CoreCompileInputs.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\bin\Debug\net6.0\Seminar3_hw_z23.exe
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\bin\Debug\net6.0\Seminar3_hw_z23.deps.json
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\bin\Debug\net6.0\Seminar3_hw_z23.runtimeconfig.json
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\bin\Debug\net6.0\Seminar3_hw_z23.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\bin\Debug\net6.0\Seminar3_hw_z23.pdb
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\Seminar3_hw_z23.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\refint\Seminar3_hw_z23.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\Seminar3_hw_z23.pdb
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\Seminar3_hw_z23.genruntimeconfig.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar3_hw_z23\obj\Debug\net6.0\ref\Seminar3_hw_z23.dll
