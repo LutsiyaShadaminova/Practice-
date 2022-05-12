@@ -1,0 +1,15 @@
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\bin\Debug\net6.0\Seminar5_hw_task123.exe
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\bin\Debug\net6.0\Seminar5_hw_task123.deps.json
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\bin\Debug\net6.0\Seminar5_hw_task123.runtimeconfig.json
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\bin\Debug\net6.0\Seminar5_hw_task123.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\bin\Debug\net6.0\Seminar5_hw_task123.pdb
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\Seminar5_hw_task123.csproj.AssemblyReference.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\Seminar5_hw_task123.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\Seminar5_hw_task123.AssemblyInfoInputs.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\Seminar5_hw_task123.AssemblyInfo.cs
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\Seminar5_hw_task123.csproj.CoreCompileInputs.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\Seminar5_hw_task123.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\refint\Seminar5_hw_task123.dll
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\Seminar5_hw_task123.pdb
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\Seminar5_hw_task123.genruntimeconfig.cache
+D:\GEEK_BRAINS\5_Знакомство с языками программирования\Семинары\Practice С#\Seminar5_hw_task123\obj\Debug\net6.0\ref\Seminar5_hw_task123.dll
