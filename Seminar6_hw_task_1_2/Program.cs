@@ -3,12 +3,14 @@
 // 0, 7, 8, -2, -2 -> 2
 // 1, -7, 567, 89, 223-> 3
 
+Console.Write("Введите размер массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
 int [] mas = new int [size];
 int count = 0;
 
 for (int i = 0; i < size; i++)
 {
+    Console.Write("Введите элемент массива: ");
     mas[i] = Convert.ToInt32(Console.ReadLine());
 
     if (mas[i] > 0)
@@ -17,7 +19,7 @@ for (int i = 0; i < size; i++)
     }
     
 }
-Console.Write(count);
+Console.Write("Количество чисел > 0 составляет: " + count);
 
 
 // Задача 2: Пользователь вводит с клавиатуры кол-во строк и столбцов для массива. 
